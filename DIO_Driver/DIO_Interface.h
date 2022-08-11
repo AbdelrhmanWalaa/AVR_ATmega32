@@ -34,7 +34,7 @@
 #define DIO_u8_PORTD		3
 
 /* Port direction as input = 0 or output = 255 */
-#define DIO_u8_PORT_INPUT	0
+#define DIO_u8_PORT_INPUT	  0
 #define DIO_u8_PORT_OUTPUT	255
 
 /* Functions' Prototypes */
